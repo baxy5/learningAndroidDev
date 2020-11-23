@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6e3716</color>
+    <color name="colorPrimaryDark">#30190b</color>
+    <color name="colorAccent">#212bbf</color> <!-- eredeti: #03dac5 -->
+</resources>

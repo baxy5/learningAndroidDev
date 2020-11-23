@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">3Dmuseum</string>
+    <string name="button_send">Send</string>
+    <string name="ceg_nev">InnoYouth</string>
+    <string name="szin_gomb">Nyomj rá a gombra!</string>
+    <string name="gyak_text">Gyakorlo textbox :)</string>
+    <string name="edit_message"></string>
+</resources>
